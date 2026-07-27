@@ -17,28 +17,5 @@ Welcome! This repository contains my end-to-end hands-on projects focusing on CI
 
 ---
 
-## 📸 Pipeline Proofs & Screenshots
-
-### 1. Continuous Integration & Pipeline Config (Jenkins)
-<img src="./docs/screenshots/Screenshot%20From%202026-07-27%2020-46-39.png" width="100%" />
-<br/><br/>
-<img src="./docs/screenshots/Screenshot%20From%202026-07-27%2020-47-18.png" width="100%" />
-<br/><br/>
-<img src="./docs/screenshots/Screenshot%20From%202026-07-27%2020-47-28.png" width="100%" />
-
-### 2. Code Quality & Security Tokens (SonarQube)
-<img src="./docs/screenshots/Screenshot%20From%202026-07-27%2020-47-53.png" width="100%" />
-
-### 3. Continuous Delivery & GitOps Sync (ArgoCD)
-<img src="./docs/screenshots/Screenshot%20From%202026-07-27%2020-48-19.png" width="100%" />
-<br/><br/>
-<img src="./docs/screenshots/Screenshot%20From%202026-07-27%2020-48-27.png" width="100%" />
-
-### 4. Cluster Metrics & Observability (Grafana & Prometheus)
-<img src="./docs/screenshots/Screenshot%20From%202026-07-27%2020-48-47.png" width="100%" />
-<br/><br/>
-<img src="./docs/screenshots/Screenshot%20From%202026-07-27%2020-48-59.png" width="100%" />
----
-
 ## 👤 Author
 * **GitHub:** [@sheralipak](https://github.com/sheralipak)
