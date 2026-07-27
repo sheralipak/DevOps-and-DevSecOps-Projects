@@ -13,6 +13,20 @@ Welcome! This repository contains my end-to-end hands-on projects focusing on CI
 ### 2. Coming Soon...
 * **Tech Stack:** AWS, Terraform, GitHub Actions, Ansible
 
+## 📸 Project Screenshots
+
+### 1. Shift-Left Security (SonarQube Passed)
+![SonarQube Passed](docs/screenshots)
+
+### 2. Observability & Real-Time Metrics (Grafana)
+![Grafana Dashboards](docs/screenshots)
+
+### 3. CI/CD Pipeline Execution (Jenkins)
+![Jenkins Pipeline](docs/screenshots)
+
+### 4. Continuous Delivery (ArgoCD)
+![ArgoCD Topology](docs/screenshots)
+
 ---
 
 ## 👤 Author
