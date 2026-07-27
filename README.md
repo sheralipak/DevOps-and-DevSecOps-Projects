@@ -16,7 +16,7 @@ Welcome! This repository contains my end-to-end hands-on projects focusing on CI
 ## 📸 Project Screenshots
 
 ### 1. Shift-Left Security (SonarQube Passed)
-![SonarQube Passed](docs/screenshots/Screenshot%20From%202026-07-27%2020-51-31.png)
+![SonarQube Passed](docs/screenshots/Screenshot From 2026-07-27 20-51-31.png)
 
 ### 2. Observability & Real-Time Metrics (Grafana)
 ![Grafana Dashboards](docs/screenshots/Screenshot%20From%202026-07-27%2020-48-47.png)
