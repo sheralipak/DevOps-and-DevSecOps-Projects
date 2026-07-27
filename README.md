@@ -13,20 +13,25 @@ Welcome! This repository contains my end-to-end hands-on projects focusing on CI
 ### 2. Coming Soon...
 * **Tech Stack:** AWS, Terraform, GitHub Actions, Ansible
 
-## 📸 Project Screenshots
+---
 
-### 1. Shift-Left Security (SonarQube Passed)
-![SonarQube Passed](Project-1-3Tier-DevSecOps-Kubernetes/docs/screenshots/Screenshot From 2026-07-27 20-51-31.png)
+## 📸 Pipeline Proofs & Screenshots
 
-### 2. Observability & Real-Time Metrics (Grafana)
-![Grafana Dashboards](docs/screenshots/Screenshot%20From%202026-07-27%2020-48-47.png)
+### 1. Continuous Integration & Pipeline Config (Jenkins)
+![Jenkins Pipeline Script](docs/screenshots/Screenshot%20From%202026-07-27%2020-46-39.png)
+![Jenkins Stages & Builds](docs/screenshots/Screenshot%20From%202026-07-27%2020-47-18.png)
+![Jenkins Job Status](docs/screenshots/Screenshot%20From%202026-07-27%2020-47-28.png)
 
-### 3. CI/CD Pipeline Execution (Jenkins)
-![Jenkins Pipeline](docs/screenshots/Screenshot%20From%202026-07-27%2020-47-18.png)
+### 2. Code Quality & Security Tokens (SonarQube)
+![SonarQube Token Creation](docs/screenshots/Screenshot%20From%202026-07-27%2020-47-53.png)
 
-### 4. Continuous Delivery (ArgoCD)
-![ArgoCD Topology](docs/screenshots/Screenshot%20From%202026-07-27%2020-48-27.png)
+### 3. Continuous Delivery & GitOps Sync (ArgoCD)
+![ArgoCD App Details](docs/screenshots/Screenshot%20From%202026-07-27%2020-48-19.png)
+![ArgoCD Topology Map](docs/screenshots/Screenshot%20From%202026-07-27%2020-48-27.png)
 
+### 4. Cluster Metrics & Observability (Grafana & Prometheus)
+![Grafana Request Traffic Graph](docs/screenshots/Screenshot%20From%202026-07-27%2020-48-47.png)
+![Grafana Prometheus Live Dashboard](docs/screenshots/Screenshot%20From%202026-07-27%2020-48-59.png)
 ---
 
 ## 👤 Author
