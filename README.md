@@ -16,16 +16,16 @@ Welcome! This repository contains my end-to-end hands-on projects focusing on CI
 ## 📸 Project Screenshots
 
 ### 1. Shift-Left Security (SonarQube Passed)
-![SonarQube Passed](docs/screenshots)
+![SonarQube Passed](docs/screenshots/Screenshot%20From%202026-07-27%2020-51-31.png)
 
 ### 2. Observability & Real-Time Metrics (Grafana)
-![Grafana Dashboards](docs/screenshots)
+![Grafana Dashboards](docs/screenshots/Screenshot%20From%202026-07-27%2020-48-47.png)
 
 ### 3. CI/CD Pipeline Execution (Jenkins)
-![Jenkins Pipeline](docs/screenshots)
+![Jenkins Pipeline](docs/screenshots/Screenshot%20From%202026-07-27%2020-47-18.png)
 
 ### 4. Continuous Delivery (ArgoCD)
-![ArgoCD Topology](docs/screenshots)
+![ArgoCD Topology](docs/screenshots/Screenshot%20From%202026-07-27%2020-48-27.png)
 
 ---
 
